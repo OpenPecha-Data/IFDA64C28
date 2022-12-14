@@ -1,0 +1,26 @@
+id: IFDA64C28
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 15:17:40.983457+00:00
+last_modified: 2022-12-14 15:17:40.983460+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-100-002
+  eft-text-version: 1.1.5 2020
+  title: Toh_846a-Threefold_Ritual-v2
+bases:
+  0AB8:
+    source_metadata: null
+    order: 1
+    base_file: 0AB8.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
